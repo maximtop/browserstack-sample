@@ -1,0 +1,14 @@
+{
+  "name": "browserstack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "node browserstack.js"
+  },
+  "devDependencies": {
+    "browserstack-local": "^1.4.9",
+    "dotenv": "^16.0.0",
+    "selenium-webdriver": "^4.1.1"
+  }
+}
